@@ -3,4 +3,4 @@ The official reporitory for the Aviex font. Inspired by geometric sans typefaces
 
 This is a sample:
 
-![Not Loaded?](https://github.com/samuraininja360/Aviex/blob/master/image.jpg?raw=true)
+![Screen Shot](https://github.com/samuraininja360/Aviex/blob/main/Aviex%20Sans%20Sample.PNG)
